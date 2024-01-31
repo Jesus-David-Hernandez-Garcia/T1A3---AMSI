@@ -51,7 +51,7 @@ Desarrolla una aplicación de Sistema de Reservacion Hotelera en Java en la cual
 
 ## Etapa 3. Diseño de la solucion
 
-![](https://github.com/Jesus-David-Hernandez-Garcia/T1A3---AMSI/blob/main/Diagrama%20de%20clases.jpeg)
+![](https://github.com/Jesus-David-Hernandez-Garcia/T1A3---AMSI/blob/main/Diagrama%20de%20Clases%20Hotelera.jpeg)
 
 ## Etapa 4. Desarrolo de la solución
 
